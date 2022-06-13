@@ -1,6 +1,5 @@
 # TP Technique d'optimisation
--Aganon Déodat
--Aho Candy
--Agbalou Reda
--Kouhossounon Morel
--Oke Machkour
+- Aganon Déodat <br>
+- Aho Candy <br>
+- Kouhossounon Morel <br>
+- Oke Machkour <br>
